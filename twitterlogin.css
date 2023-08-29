@@ -1,0 +1,87 @@
+*{
+    margin: auto;
+    padding: 0;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.mother{
+    height: 675px;
+    width: 100%;
+}
+.blue{
+    background-image: url(/images/twitter.webp);
+    background-repeat: no-repeat;
+    background-size: 160% 140%;
+    background-position: right;
+    background-position-x: -70px;
+    background-position-y: -100px;
+    width: 50%;
+    background-color: #58b1ec;
+    height: 675px;
+    float: left;
+}
+.white{
+    width: 50%;
+    background-color: white;
+    float: right;
+    height: 675px;
+}
+.content{
+    color: white;
+    text-align: left;
+    margin-top: 38%;
+    margin-left: 30%;
+    
+}
+p{
+    color: white;
+    font-size: medium;
+    padding: 20px;
+    font-size: 18px;
+}
+img{
+    height: 50px;
+    width: 70px;
+    padding-bottom: 40px;
+}
+.whiteContent{
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 20%;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    padding-left: 15px;
+}
+.second{
+    border: #259ce0 solid 1pt;
+    background-color: white;
+    color:#259ce0 ;
+    margin-top: 10px;
+}
+button{
+    background-color: #259ce0;
+    color:white;
+    width: 300px;
+    height: 30px;
+    border: 15px;
+    margin: 5px;
+    border-radius: 20px;
+}
+h3{
+    padding-bottom: 50px;
+    padding-top: 20px;
+    font-size: 30px;
+}
+h4{
+    font-size: 12px;
+    padding-bottom: 10px;
+    font-weight: bolder;
+}
+footer{
+    background-color: white;
+    color: grey;
+   text-align: center;
+   font-size: small;
+}
